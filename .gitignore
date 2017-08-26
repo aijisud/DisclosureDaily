@@ -1,7 +1,9 @@
 # two folders
-/DisclosurePdf/*
-/DisclosureText/*
+pdf/
+pdf*/
+txt/
+txt*/
 
 # postfix
-*.d.txt
+*.txt
 *.pdf
